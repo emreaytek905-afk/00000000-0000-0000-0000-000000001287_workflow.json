@@ -1,0 +1,2 @@
+# 00000000-0000-0000-0000-000000001287_workflow.json
+Dockerized ComfyUI workflow: 00000000-0000-0000-0000-000000001287_workflow.json
